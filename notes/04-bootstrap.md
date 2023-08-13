@@ -31,6 +31,7 @@ text-center Centers text (Can use with images)
 text- X sets text color
 text-start aligns text to the left instead of centered
 order- (0-5)  orders the elements of the column
+d-flex puts elements back beside eachother instead of stacking
 
 
 Figma
