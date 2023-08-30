@@ -1,7 +1,7 @@
 # Understanding Asynchronous Code, and API's
 01. What is the difference between `asynchronous` code and `synchronous` code?
 
-  > | ANSWER HERE |
+  > synchronous code runs from top to bottom in order where asynchronous code runs later on, depending on when u want it to.
 
 02. What is an event listener?
 
@@ -13,11 +13,11 @@
 
 04. What is a callback / higher order function?
 
-  > | ANSWER HERE |
+  > a callback is a function passed as an argument to another function.
 
 05. What is a `promise`? How do you capture an error from a `promise`?
 
-  > | ANSWER HERE |
+  > A promise is an object with 3 possible states(pending, resolved, rejected). Similar to callbacks with a few differences. We capture errors from promises using .catch
 
 06. Name three processes used to make requests over `HTTP`?
 
