@@ -1,6 +1,6 @@
 ## Afternoon Assignment Links
 
-* **[Repo](https://github.com/TylerHigby/<ASSIGNMENT_REPO>)**
-* **[Repo](https://github.com/TylerHigby/<ASSIGNMENT_REPO>)**
-* **[Repo](https://github.com/TylerHigby/<ASSIGNMENT_REPO>)**
-* **[Repo](https://github.com/TylerHigby/<ASSIGNMENT_REPO>)**
+* **[Repo](no class Monday)**
+* **[Repo](https://github.com/TylerHigby/Week5Tuesday)**
+* **[Repo](https://github.com/TylerHigby/Week5Wednesday)**
+* **[Repo](hackathon prep)**
