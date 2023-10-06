@@ -300,11 +300,43 @@ On Homepage, add mycollaborations: computed
 
 add a spot onto the homepage for it to render
 
+------------------------------------------------------------------------------
 
+cd into the client and run npm i
+In the main.js
+import Vue3Tour from 'vue3-tour'
+import 'vue3-tour/dist/vue3-tour.css'
 
+root
+  .use(Vue3Tour)
 
+on the homepage.vue 
+add <v-tour></v-tour>
+in return, add steps:[{
+  target: '#(id that you're targeting)'
+  header:
+  content:
+  actions:
+}]
+add mounted: to the bottom of the page
+mounted: function(){
 
+}
 
+unders steps add
+tourCallBacks: {
+  onFinish: (()=>{
+    router.push({name: 'Album Details', params: {albumId: Appstate.albums[0].id})
+  })
+}
+
+in Tour.vue component
+add <v-tour> to template
+pass in props
+
+in the backend account model add needsTour:
+
+in the backend AccountController add updateAccount
 
 
 
