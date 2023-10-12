@@ -338,6 +338,17 @@ in the backend account model add needsTour:
 
 in the backend AccountController add updateAccount
 
+--------------------------------------------------------------------------------
+Sockets
+in env.js useSockets = true
+
+Top of homepage.vue
+create a section with a button called test socket
+
+In the return
+  testSocket(){
+    
+  }
 
 
 
