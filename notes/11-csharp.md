@@ -316,4 +316,19 @@ In Startup.cs add services.
 Make the Get sequence
 
 *** dbSetup => Model => repository => service => controller => startup.cs ***
+---------------------------------------------------------------------------------
+<!-- //SECTION - MONDAY WEEK 11 -->
+
+Frontend- add authsettled to router.js homepage
+
+--------------------------------------------------------------------------------
+<!-- //!SECTION HELP REVIEWS -->
+bcw create dotnet-vue
+env.js
+pancakes-click page to get green dot
+spin up servers
+dbsetup
+restaurant model, repo,service,controller
+profile model
+create Irepository interface
 
